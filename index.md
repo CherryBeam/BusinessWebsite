@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/90300147/132555506-5330a9e2-1bb7-4a02-9d19-746da0ef9fd9.jpg" alt="Cherry Beam Logo" style="width:600px;height:400px;">
+<img src="https://user-images.githubusercontent.com/90300147/132555506-5330a9e2-1bb7-4a02-9d19-746da0ef9fd9.jpg" alt="Cherry Beam Logo" style="float:center;width:600px;height:400px;">
 We are small team working a few different projects.
 
 ### Games

@@ -29,8 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Who We Are
-
-![Amrit Portrait](https://user-images.githubusercontent.com/90300147/132558030-4493810b-7e65-4847-ab64-cc8b4abca327.jpeg)
+<img src="https://user-images.githubusercontent.com/90300147/132558030-4493810b-7e65-4847-ab64-cc8b4abca327.jpeg" alt="Amrit Patel" style="width:500px;height:600px;">
 Amrit Patel - Part-time futsaller, nuclear engineer, photographer, and R nerd (who likes to experiment on himself).
 Diego Saenz, Timothy Drzewiecki, and Matthew Wolfe
 

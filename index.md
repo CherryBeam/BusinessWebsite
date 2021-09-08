@@ -1,6 +1,4 @@
-<h1>Cherry Beam</h1>
-<h2>Making Fun!</h2>
-![Cherry Beam Logo ColorTransparentBKG](https://user-images.githubusercontent.com/90300147/132555506-5330a9e2-1bb7-4a02-9d19-746da0ef9fd9.jpg)
+<img src="https://user-images.githubusercontent.com/90300147/132555506-5330a9e2-1bb7-4a02-9d19-746da0ef9fd9.jpg" alt="Cherry Beam Logo" style="width:400px;height:400px;"></h1>
 We are small team working a few different projects.
 
 ### Games

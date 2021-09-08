@@ -1,4 +1,4 @@
-[Cherry Beam Logo Color](https://user-images.githubusercontent.com/90300147/132445718-4845f487-2586-4a2c-8d50-6479c538cf7e.jpg)
+[Cherry Beam Logo Color](https://github.com/CherryBeam/BusinessWebsite/Cherry Beam Logo Color.jpg)
 
 We are small team working a few different projects.
 

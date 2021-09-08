@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+[Cherry Beam Logo Color](https://user-images.githubusercontent.com/90300147/132445718-4845f487-2586-4a2c-8d50-6479c538cf7e.jpg)
 
-You can use the [editor on GitHub](https://github.com/CherryBeam/BusinessWebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are small team working a few different projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Games
 
-### Markdown
+We are currently working on a game with the working title of Words with Shapes, you can check out our demo at https://cherrybeam.itch.io/words-with-shapes!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block

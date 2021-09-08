@@ -5,6 +5,7 @@ We are small team working a few different projects.
 ### Games
 
 We are currently working on a game with the working title of Words with Shapes, you can check out our demo at https://cherrybeam.itch.io/words-with-shapes!
+<iframe src="https://giphy.com/embed/Juxh8Wnrd3kMj1SJZn" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 ```markdown

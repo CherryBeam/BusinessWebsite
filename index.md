@@ -1,4 +1,4 @@
-![Cherry Beam Logo Color](https://user-images.githubusercontent.com/90300147/132554204-50126ae5-8dac-410d-8fe7-85e416196d85.jpg)
+![Cherry Beam Logo ColorTransparentBKG](https://user-images.githubusercontent.com/90300147/132555506-5330a9e2-1bb7-4a02-9d19-746da0ef9fd9.jpg)
 
 We are small team working a few different projects.
 

@@ -30,7 +30,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Who We Are
 
-Amrit Patel, Diego Saenz, Timothy Drzewiecki, and Matthew Wolfe
+![Amrit Portrait](https://user-images.githubusercontent.com/90300147/132558030-4493810b-7e65-4847-ab64-cc8b4abca327.jpeg)
+Amrit Patel - Part-time futsaller, nuclear engineer, photographer, and R nerd (who likes to experiment on himself).
+Diego Saenz, Timothy Drzewiecki, and Matthew Wolfe
 
 ### Support or Contact
 

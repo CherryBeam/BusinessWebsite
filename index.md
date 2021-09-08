@@ -7,7 +7,6 @@ We are currently working on a game with the working title of Words with Shapes, 
 
 <iframe src="https://giphy.com/embed/Juxh8Wnrd3kMj1SJZn" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-
 ### Who We Are
 <img src="https://user-images.githubusercontent.com/90300147/132558030-4493810b-7e65-4847-ab64-cc8b4abca327.jpeg" alt="Amrit Patel" style="width:400px;height:400px;">
 Amrit Patel - Part-time futsaller, nuclear engineer, photographer, and R nerd (who likes to experiment on himself).

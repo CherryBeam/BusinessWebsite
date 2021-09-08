@@ -1,5 +1,5 @@
-<h1>![Cherry Beam Logo ColorTransparentBKG](https://user-images.githubusercontent.com/90300147/132555506-5330a9e2-1bb7-4a02-9d19-746da0ef9fd9.jpg)</h1?
-
+<h1>Cherry Beam</h1?
+![Cherry Beam Logo ColorTransparentBKG](https://user-images.githubusercontent.com/90300147/132555506-5330a9e2-1bb7-4a02-9d19-746da0ef9fd9.jpg)
 We are small team working a few different projects.
 
 ### Games

@@ -8,28 +8,11 @@ We are currently working on a game with the working title of Words with Shapes, 
 <iframe src="https://giphy.com/embed/Juxh8Wnrd3kMj1SJZn" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
-```markdown
-Syntax highlighted code block
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Who We Are
 <img src="https://user-images.githubusercontent.com/90300147/132558030-4493810b-7e65-4847-ab64-cc8b4abca327.jpeg" alt="Amrit Patel" style="width:400px;height:400px;">
 Amrit Patel - Part-time futsaller, nuclear engineer, photographer, and R nerd (who likes to experiment on himself).
 Diego Saenz, Timothy Drzewiecki, and Matthew Wolfe
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: cherrybeamgames@gmail.com

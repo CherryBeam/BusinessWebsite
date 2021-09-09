@@ -2,7 +2,7 @@ We are small team working a few different projects.
 
 # Games
 
-We are currently working on a game with the working title of Words with Shapes.
+We are currently working on a game with the working title of *Words with Shapes*.
 Check out our demo on [itch.io](https://cherrybeam.itch.io/words-with-shapes!)!
 
 ![Words with Shapes gameplay](/assets/images/words-with-shapes.gif)

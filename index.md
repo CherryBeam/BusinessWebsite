@@ -25,7 +25,7 @@ Chief Technical Officer
 
 **Amrit Patel**  
 
-Part-time futsaller, nuclear engineer, photographer, and R nerd (who likes to experiment on himself).
+Part-time futsaller, nuclear engineer, photographer, and R nerd.
 
 ![Portrait of Matt](/assets/images/matt.jpeg)
 

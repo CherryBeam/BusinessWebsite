@@ -19,7 +19,7 @@ Diego is passionate about games, nuclear engineering, programming, accounting, i
 
 **Timothy Drzewiecki**  
 
-Chief Technical Officer
+Gamer, engineer, investor.
 
 ![Portrait of Amrit](/assets/images/amrit.jpeg)  
 

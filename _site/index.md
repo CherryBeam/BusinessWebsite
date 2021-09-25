@@ -12,26 +12,28 @@ Check out our demo on [itch.io](https://cherrybeam.itch.io/words-with-shapes!)!
 ![Portrait of Diego](/assets/images/diego.jpeg)  
 
 **Diego Saenz**  
+*Creative Director*
 
 Diego is passionate about games, nuclear engineering, programming, accounting, investing, and continuously learning. He loves playing just about any game, but especially JRPGs, word games, platformers, *Zelda*, *Stardew Valley*, and Metroidvanias.  
 
 ![Portrait of Tim](/assets/images/tim.jpeg)
 
 **Timothy Drzewiecki**  
+*Programmer*  
 
-Chief Technical Officer
+Gamer, engineer, investor.
 
 ![Portrait of Amrit](/assets/images/amrit.jpeg)  
 
 **Amrit Patel**  
+*DevOps Engineer*
 
-Part-time futsaller, nuclear engineer, photographer, and R nerd (who likes to experiment on himself).
+Part-time futsaller, nuclear engineer, photographer, and R nerd.
 
 ![Portrait of Matt](/assets/images/matt.jpeg)
 
 **Matthew Wolfe**  
-
-Lead Designer
+*Lead Designer*  
 
 # Contact
 

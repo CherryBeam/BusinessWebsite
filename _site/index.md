@@ -2,12 +2,15 @@ We are small team working a few different projects.
 
 # Games
 
-We are currently working on *Bloxi*.
+We are currently working on *Bloxi*.  
+
+![Bloxi logo](/assets/images/bloxi.jpeg)
+
 Check out our demo on [itch.io](https://cherrybeam.itch.io/bloxi)!
 
-![Words with Shapes gameplay](https://media.giphy.com/media/87VXbRboUWAlRbMn4g/giphy.gif)
+![Bloxi gameplay](https://media.giphy.com/media/87VXbRboUWAlRbMn4g/giphy.gif)
 
-# Who We Are
+# Our Team
 
 ![Portrait of Diego](/assets/images/diego.png)  
 

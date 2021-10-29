@@ -26,7 +26,7 @@ Diego is passionate about games, nuclear engineering, programming, accounting, i
 
 Gamer, engineer, investor.
 
-![Portrait of Amrit](/assets/images/amrit.png)  
+![Portrait of Amrit](/assets/images/amrit.png)   
 
 **Amrit Patel**  
 *DevOps Engineer*

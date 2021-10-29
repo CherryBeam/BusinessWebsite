@@ -1,4 +1,4 @@
-We are small team working a few different projects.
+A small team working a few different projects.
 
 # Games
 

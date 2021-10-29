@@ -2,35 +2,35 @@ We are small team working a few different projects.
 
 # Games
 
-We are currently working on a game with the working title of *Words with Shapes*.
-Check out our demo on [itch.io](https://cherrybeam.itch.io/words-with-shapes!)!
+We are currently working on *Bloxi*.
+Check out our demo on [itch.io](https://cherrybeam.itch.io/bloxi)!
 
 ![Words with Shapes gameplay](https://media.giphy.com/media/87VXbRboUWAlRbMn4g/giphy.gif)
 
 # Who We Are
 
-![Portrait of Diego](/assets/images/diego.jpeg)  
+![Portrait of Diego](/assets/images/diego.png)  
 
 **Diego Saenz**  
 *Creative Director*
 
 Diego is passionate about games, nuclear engineering, programming, accounting, investing, and continuously learning. He loves playing just about any game, but especially JRPGs, word games, platformers, *Zelda*, *Stardew Valley*, and Metroidvanias.  
 
-![Portrait of Tim](/assets/images/tim.jpeg)
+![Portrait of Tim](/assets/images/tim.png)
 
 **Timothy Drzewiecki**  
 *Programmer*  
 
 Gamer, engineer, investor.
 
-![Portrait of Amrit](/assets/images/amrit.jpeg)  
+![Portrait of Amrit](/assets/images/amrit.png)  
 
 **Amrit Patel**  
 *DevOps Engineer*
 
 Part-time futsaller, nuclear engineer, photographer, and R nerd.
 
-![Portrait of Matt](/assets/images/matt.jpeg)
+![Portrait of Matt](/assets/images/matt.png)
 
 **Matthew Wolfe**  
 *Lead Designer*  

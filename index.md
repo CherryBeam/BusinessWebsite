@@ -37,7 +37,7 @@ Part-time futsaller, nuclear engineer, photographer, and R nerd.
 
 **Matthew Wolfe**  
 *Lead Designer*  
-
+ 
 # Contact
 
 Email: [cherrybeamgames@gmail.com](mailto:cherrybeamgames@gmail.com)

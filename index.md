@@ -2,13 +2,9 @@ A small team working on a few different projects.
 
 # Games
 
-We are currently working on *Bloxi*.  
-
-![Bloxi logo](/assets/images/bloxi.jpeg)
-
-Check out our demo on [itch.io](https://cherrybeam.itch.io/bloxi)!
-
-![Bloxi gameplay](https://media.giphy.com/media/87VXbRboUWAlRbMn4g/giphy.gif)
+We are currently working on *Bloxi*. Check out our demo on [itch.io](https://cherrybeam.itch.io/bloxi)!  
+![Bloxi logo](/assets/images/bloxiLogo.png)
+![Bloxi gameplay](https://media.giphy.com/media/ajC1AufzlgNvfWQLD5/giphy.gif)
 
 # Our Team
 
@@ -37,7 +33,7 @@ Part-time futsaller, nuclear engineer, photographer, and R nerd.
 
 **Matthew Wolfe**  
 *Lead Designer*  
- 
+
 # Contact
 
 Email: [cherrybeamgames@gmail.com](mailto:cherrybeamgames@gmail.com)

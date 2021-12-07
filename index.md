@@ -2,9 +2,9 @@ A small team working on a few different projects.
 
 # Games
 
-We are currently working on *Bloxi*. Check out our demo on [itch.io](https://cherrybeam.itch.io/bloxi)!  
-![Bloxi logo](/assets/images/bloxiLogo.png)
-![Bloxi gameplay](https://media.giphy.com/media/ajC1AufzlgNvfWQLD5/giphy.gif)
+We are currently working on *Bloxi* and preparing to launch on [Steam](https://store.steampowered.com/app/1782050/Bloxi/). Check out our demo on [itch.io](https://cherrybeam.itch.io/bloxi)!  
+
+![Bloxi gameplay](/assets/images/maneuver.gif)
 
 # Our Team
 
